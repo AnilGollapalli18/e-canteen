@@ -30,14 +30,12 @@ To run the project locally:
    git clone https://github.com/AnilGollapalli18/e-canteen.git
 Install dependencies:
 
-# bash
-# Copy code
+
 npm install
 
 # Start the Expo project:
 
-# bash
-# Copy code
+
 expo start
 
 Open the app on a mobile device using the Expo Go app or on an emulator.
