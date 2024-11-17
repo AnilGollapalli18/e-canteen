@@ -34,3 +34,23 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+#For Android
+android/app/build/
+android/.gradle/
+android/.idea/
+
+#For iOS
+ios/Pods/
+ios/*.xcworkspace/
+ios/DerivedData/
+ios/build/
+
+#editors specific files
+.vscode/
+
+#logs
+*.log
+
+#For images and files
+.expo-shared/
